@@ -302,46 +302,6 @@ Here sum is a variable.
 If we are adding only integers, the value taken by sum will always be an integer. So we use an ‘int’ data-type to signify this.
 This tells the computer that we will be dealing with integer data-type, and computer uses this information to decide how much memory to allocate for this variable.
 
-<!--
-```
- int num;
- double val;
- 
- 1. num = 17 / 2 + 4;
-
- 2. val = 17 / 2 + 4;
-
- 3. num = 17 / 2.0 + 4;
-
- 4. val = 17 / 2.0 + 4;
- 
- 5. num = 11 % 6 / 2 - 1;
- 
- 6. val = 11 % 6 / 2.0 - 1;
- 
- 7. num = 3 - (5 + 10 / (2 * 2));
- 
- Solve below questions together
- 
- 8. val = 3 - (5 + 10 / (2 * 3.0));
- 
- 9. val = 4.5 * (5 - 3);
- num = val;
- 
- num is
- val is
- 
- 10. num = 15 / 2 % 3 - 1;
- num is
- 
- 11. num = 7 * 2 - 5 / 3;
- val = num;
-
- num is
- val is 
-``` 
--->
-
 *The below sections on cin, cout, getline are taken from the textbook for the course, absolute c++*
 
 ## cout
