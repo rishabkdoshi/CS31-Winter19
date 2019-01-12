@@ -301,6 +301,7 @@ Here sum is a variable.
 
 If we are adding only integers, the value taken by sum will always be an integer. So we use an ‘int’ data-type to signify this.
 This tells the computer that we will be dealing with integer data-type, and computer uses this information to decide how much memory to allocate for this variable.
+
 <!--
 ```
  int num;
