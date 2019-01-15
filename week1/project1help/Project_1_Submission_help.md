@@ -89,4 +89,4 @@ The output for above command will be the whole logic_error.cpp file on the termi
 
 ```cat <filename>```
 
-**If you have a report.docx file, the output of this command won't make sense. But as long as report.docs exists in the output of previous step of `ls` command, you are good**
+**If you have a report.docx file, the output of this command won't make sense. But as long as report.docx exists in the output of previous step of `ls` command, you are good**
